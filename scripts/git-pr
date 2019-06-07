@@ -1,0 +1,1 @@
+curl -s -u USER:PASSWD -X POST -H 'Content-Type: application/json' -d 'JSON_struct_with_data' http://SERVER:PORT/rest/api/1.0/projects/PRJKEY/repos/REPONAME/pull-requests
